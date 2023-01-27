@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921.757" height="1177.694" viewBox="0 0 1921.757 1177.694">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1.241" x2="0.209" y2="-0.214" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#291584"/>
+      <stop offset="1" stop-color="#a13ff6"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_1305" data-name="Path 1305" d="M2317.938-103.258S2257.209-532.1,1807.843-303.695,397.09,465.332,397.09,465.332L397.664,807l1921.183-.571Z" transform="translate(-398.09 8181)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1173" data-name="Group 1173" transform="translate(1 -7857.306)">
+    <path id="Path_985" data-name="Path 985" d="M2317.938-103.258S2257.209-532.1,1807.843-303.695,397.09,465.332,397.09,465.332L397.664,807l1921.183-.571Z" transform="translate(-398.09 8228)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(0 47)" clip-path="url(#clip-path)">
+      <g id="Group_1161" data-name="Group 1161" transform="translate(265 126)">
+        <circle id="Ellipse_167" data-name="Ellipse 167" cx="156.5" cy="156.5" r="156.5" transform="translate(1377 7946)" fill="#fff" opacity="0.03"/>
+        <circle id="Ellipse_168" data-name="Ellipse 168" cx="156.5" cy="156.5" r="156.5" transform="translate(1396 8123)" fill="#fff" opacity="0.03"/>
+        <circle id="Ellipse_169" data-name="Ellipse 169" cx="156.5" cy="156.5" r="156.5" transform="translate(1564 8002)" fill="#fff" opacity="0.03"/>
+      </g>
+      <g id="Group_1162" data-name="Group 1162" transform="translate(-1422 705)">
+        <circle id="Ellipse_167-2" data-name="Ellipse 167" cx="156.5" cy="156.5" r="156.5" transform="translate(1377 7946)" fill="#fff" opacity="0.02"/>
+        <circle id="Ellipse_168-2" data-name="Ellipse 168" cx="156.5" cy="156.5" r="156.5" transform="translate(1396 8123)" fill="#fff" opacity="0.02"/>
+        <circle id="Ellipse_169-2" data-name="Ellipse 169" cx="156.5" cy="156.5" r="156.5" transform="translate(1564 8002)" fill="#fff" opacity="0.02"/>
+      </g>
+    </g>
+  </g>
+</svg>
